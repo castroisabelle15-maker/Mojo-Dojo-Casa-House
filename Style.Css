@@ -1,47 +1,47 @@
-body {
-    background-image: url(https://uploads.onecompiler.io/4556uzr6d/1794336905705/WhatsApp%20Image%202026-11-10%20at%2015.54.41.jpeg);
-    font-family: Arial, sans-serif;
-    text-align: center;
-    color: #23241c;
-    margin: 0;
+Corpo {
+ Imagem de fundo: URL(https://uploads.onecompiler.io/4556uzr6d/1794336905705/WhatsApp%20Image%202026-11-10%20at%2015.54.41.jpeg); 
+     font-family: Arial, sans-serif; 
+     text-align: center; 
+ cor: #23241c; 
+ Margem: 0; 
 
 }
 
-header {
-    background-color: deeppink;
-    color: white;
-    padding: 20px;
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-    border-radius: 5px;
+Cabeçalho {
+ fundo-cor: deeppink; 
+ cor: branco; 
+ preenchimento: 20px; 
+ Posição: pegajoso; 
+ Topo: 0; 
+ índice Z: 1000; 
+ raio de fronteira: 5px; 
 
 }
 
-nav {
-    margin: 15px;
+Marinha {
+ Margem: 15px; 
 }
 
 Nav A {
- cor: branco; 
- Decoração de texto: sublinhado; 
- Margem: 10px; 
+  cor: branco;  
+  Decoração de texto: sublinhado;  
+  Margem: 10px;  
 }
 
-# Home {
- cor de fundo: hotpink; 
- cor: branco; 
- preenchimento: 50px; 
- raio de fronteira: 5px; 
+# casa {
+  cor de fundo: hotpink;  
+  cor: branco;  
+  preenchimento: 50px;  
+  raio de fronteira: 5px;  
 }
 
 H1 {
- Tamanho da fonte: 36px; 
+  Tamanho da fonte: 36px;  
 }
 
 Secção {
- preenchimento: 35px; 
- Margem: 20px; 
+  preenchimento: 35px;  
+  Margem: 20px;  
 }
 
 .cor-titulo {
