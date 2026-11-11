@@ -1,0 +1,130 @@
+body {
+    background-image: url(https://uploads.onecompiler.io/4556uzr6d/1794336905705/WhatsApp%20Image%202026-11-10%20at%2015.54.41.jpeg);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #23241c;
+    margin: 0;
+
+}
+
+header {
+    background-color: deeppink;
+    color: white;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    border-radius: 5px;
+
+}
+
+nav {
+    margin: 15px;
+}
+
+Nav A {
+ cor: branco; 
+ Decoração de texto: sublinhado; 
+ Margem: 10px; 
+}
+
+# Home {
+ cor de fundo: hotpink; 
+ cor: branco; 
+ preenchimento: 50px; 
+ raio de fronteira: 5px; 
+}
+
+H1 {
+ Tamanho da fonte: 36px; 
+}
+
+Secção {
+ preenchimento: 35px; 
+ Margem: 20px; 
+}
+
+.cor-titulo {
+ cor: RGB (143 , 10, 32); 
+}
+
+IMG {
+ Largura: 300px; 
+ raio de fronteira: 10px; 
+ Margem: 20px; 
+}
+
+UL {
+ Estilo de lista: nenhum; 
+ preenchimento: 0; 
+}
+
+LI {
+ fundo-cor: deeppink; 
+ cor: branco; 
+ Margem: 10px auto; 
+ preenchimento: 10px; 
+ raio de fronteira: 10px; 
+ Largura: 280px; 
+}
+
+Botão {
+ cor de fundo: roxo; 
+ cor: branco; 
+ preenchimento: 12px; 
+ Margem: 20px; 
+ raio de fronteira: 10px; 
+ Fronteira: nenhuma; 
+}
+
+#funciona {
+ cor de fundo: branco; 
+ raio de fronteira: 5px; 
+}
+
+.caixa {
+ cor de fundo: branco; 
+ Borda: 1px rosa sólido; 
+ raio de fronteira: 10px; 
+ preenchimento: 15px; 
+ Margem: 15px; 
+}
+
+#frase
+   text-align: justify; 
+  
+}
+
+.caixa H3 {
+ cor: RGB (143 , 10, 32); 
+}
+
+.caixa p {
+ cor: #3d4f48; 
+}
+
+.cor-int {
+ cor: roxo; 
+}
+
+.integrante {
+ cor de fundo: branco; 
+ raio de fronteira: 10px; 
+ preenchimento: 10px; 
+ Margem: 15px; 
+}
+
+.integrante h3 {
+ cor: roxo; 
+}
+
+.integrante p {
+ cor: RGB (138 , 130, 130); 
+}
+
+rodapé {
+ fundo-cor: deeppink; 
+ cor: branco; 
+ preenchimento: 20px; 
+ raio de fronteira: 5px; 
+}
